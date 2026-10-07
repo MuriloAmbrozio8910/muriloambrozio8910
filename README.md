@@ -2,11 +2,11 @@
 
 # Murilo Ambrozio
 
-### Software Developer • AI-Assisted Builder • Vibe Coder
+### Software Developer • Reverse Engineering • Security Research
 
-I build web applications, tools and digital products with a strong focus on **rapid prototyping**, **automation**, **modern web technologies** and **AI-assisted development**.
+I build software, web applications and tools while continuously studying how systems work internally.
 
-I enjoy turning ideas into working software quickly — combining traditional programming fundamentals with modern AI workflows to design, build, test and iterate faster.
+My main interests include **software development, reverse engineering, low-level analysis, security research and exploit development**.
 
 </div>
 
@@ -14,94 +14,92 @@ I enjoy turning ideas into working software quickly — combining traditional pr
 
 ## 👨‍💻 About Me
 
-- 💻 Software developer focused on practical, product-oriented development
-- ⚡ Interested in rapid prototyping and shipping ideas fast
-- 🤖 I use AI as a development accelerator for research, iteration and implementation
-- 🌐 Building web apps, APIs, dashboards and automation tools
-- 🧠 Always experimenting with new technologies and development workflows
-- 🇧🇷 Based in Brazil
+My name is **Murilo Ambrozio**, I'm 19 years old and I was born and raised in **Ibitinga, São Paulo, Brazil**.
 
-> **Vibe coding, but with engineering behind it.**  
-> AI helps accelerate the process — architecture, decisions and final responsibility still matter.
+I've been interested in programming and software creation from a young age. Over time, that curiosity expanded beyond building applications into understanding how software works internally — including reverse engineering, binary analysis and security research.
+
+Today I work with multiple programming languages, development environments and modern web technologies, while continuing to deepen my knowledge in both high-level and low-level development.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔬 Areas of Interest
+
+- Software Development
+- Web Development
+- Backend Development
+- Reverse Engineering
+- Binary Analysis
+- Security Research
+- Exploit Development
+- Automation
+- APIs and System Integrations
+
+---
+
+## 💻 Languages
 
 <div align="center">
 
-### Frontend
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-### Backend & Data
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Languages & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 What I Like Building
+## ⚙️ Technologies & Tools
 
-```text
-Web Applications      ████████████████████
-AI-Assisted Products  ███████████████████░
-Automation & Tools    ██████████████████░░
-APIs & Backends       █████████████████░░░
-Rapid Prototypes      ████████████████████
-```
+<div align="center">
 
-My workflow is centered around taking an idea from **concept → prototype → working product** as efficiently as possible.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-B71C1C?style=for-the-badge)
+
+</div>
 
 ---
 
 ## ⭐ Selected Projects
 
-### 🎮 [PlayVault](https://github.com/MuriloAmbrozio8910/PlayVault)
-A game-focused web project with a Node.js/Express backend and integrations for game data.
-
 ### 🧀 [Pão de Queijo Mineiro](https://github.com/MuriloAmbrozio8910/Pao-de-Queijo-mineiro)
-A real-world ordering system built with **Next.js, React, TypeScript and Redis**, including an admin area and Vercel deployment support.
+A practical ordering system built with **Next.js, React, TypeScript and Redis**, featuring an admin panel, persistent order storage and deployment support for Vercel.
 
-### 🌐 [Portfolio](https://github.com/MuriloAmbrozio8910/portifolio)
-My personal portfolio project and a collection of my web development work.
-
----
-
-## 🤖 AI-Assisted Development
-
-I see AI as a powerful engineering tool — not a replacement for understanding what is being built.
-
-I use AI-assisted workflows to:
-
-- accelerate prototyping and implementation
-- explore architectures and alternative solutions
-- automate repetitive development tasks
-- debug and refactor faster
-- transform ideas into usable products with shorter iteration cycles
-
-This allows me to combine **software development** with the speed and experimentation of modern **vibe coding** workflows.
+### 🧠 [Synapse AI Website](https://github.com/MuriloAmbrozio8910/ia-site)
+A web interface focused on artificial intelligence experiences, built with **HTML, CSS and JavaScript**, including responsive UI, chat interactions and image-generation concepts.
 
 ---
 
-## 📊 GitHub
+## 🧩 Reverse Engineering & Security
+
+One of the areas I enjoy studying the most is understanding software beyond its source code.
+
+I am interested in:
+
+- static and dynamic analysis
+- binary structure and program behavior
+- debugging and low-level investigation
+- reverse engineering with tools such as **Ghidra**
+- exploit development and vulnerability research
+- understanding how protections and software defenses work
+
+I approach these areas as part of my technical study of software internals and security.
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -114,7 +112,7 @@ This allows me to combine **software development** with the speed and experiment
 
 <div align="center">
 
-### Build fast. Learn constantly. Ship real things.
+### Building software. Understanding systems. Learning deeper.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MuriloAmbrozio8910&style=flat-square)
 
